@@ -3,7 +3,7 @@ Designing and building a recommendation system to determine study programs from 
 
 Demo: [Study Program Recommendation System](https://prodi-ahp.000webhostapp.com/)
 
-## Code
+<!-- ## Code
 ```python
 import numpy as np
 import pandas as pd
@@ -68,4 +68,4 @@ for i in range(top_k):
     print("Program ID:", recommendations[i][0], "Hybrid Score:", recommendations[i][1])
 
 
-```
+``` -->
